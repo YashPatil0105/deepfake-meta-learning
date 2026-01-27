@@ -8,3 +8,6 @@ opencv-python-headless
 facenet-pytorch
 albumentations
 pyyaml
+pandas
+kaggle
+python-dotenv
