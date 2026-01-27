@@ -200,7 +200,6 @@ logs/
 *.log
 results/
 output/
-*.txt
 
 # Plots and figures (keep .gitkeep only)
 figures/
