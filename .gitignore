@@ -189,7 +189,7 @@ experiments/*/
 *.xls
 *.json
 !**/configs/*.json
-!data/splits/*.json
+!data/splits/**/*.json
 
 # Results and logs
 logs/
