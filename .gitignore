@@ -149,12 +149,6 @@ dmypy.json
 ehthumbs.db
 Thumbs.db
 
-# Data directories (large files should not be committed)
-data/raw/
-data/processed/
-!data/raw/.gitkeep
-!data/processed/.gitkeep
-!data/splits/.gitkeep
 
 # Experiment results and outputs
 experiments/*/
